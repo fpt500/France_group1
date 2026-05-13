@@ -25,6 +25,7 @@ Simon Loop
 France Portrait
 
 Include the tutorial group number
+Group 1
 
 Include your tutorial lecturer's name
 
