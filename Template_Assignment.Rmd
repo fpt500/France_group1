@@ -23,6 +23,7 @@ require(yaml)
 
 Simon Loop 
 France Portrait
+Fatima Amankour
 
 Include the tutorial group number
 Group 1
@@ -32,6 +33,8 @@ Chantal Schouwenaar
 
 
 # Part 1 - Identify a Social Problem
+
+Mental health
 
 Use APA referencing throughout your document. [Here's a link to some explanation.](https://www.mendeley.com/guides/apa-citation-guide/)
 
