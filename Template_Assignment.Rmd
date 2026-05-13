@@ -21,7 +21,7 @@ require(yaml)
 
 # Title Page
 
-Include your names
+Simon Loop 
 
 Include the tutorial group number
 
